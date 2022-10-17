@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(WHITE,rgba(54,25,247,0.787));
+}
+
+.profile{
+    font-style: italic;
+    background-color: rgba(54, 25, 247, 0.787);
+    height:200px;
+    width: 1500px;
+    padding-left: 1%;
+   
+}
+h1{
+    font-style: normal;
+    padding-left: 75%;
+}
+.address{
+    padding-top: 1%;
+    margin-top: -15%;
+    padding-left: 1%;
+font-family: 'Times New Roman', Times, serif;
+}
+#image{
+    padding-left: 82%;
+    margin-top:-1% ;
+}
+.skills{
+    padding-top: 5%;
+    font-size: 600;
+}
+td {
+    padding-left: 30px;
+    font-size:large;
+    font-style:oblique;
+    padding-top: -30px;
+}
